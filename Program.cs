@@ -5,7 +5,7 @@
         public static void Main(string[] args) 
         { 
         Console.WriteLine("Welcome to Line Comparison Computation Program");
-            ComparisionLength obj = new ComparisionLength();
+            ComparisionLengthExtension obj = new ComparisionLengthExtension();
             obj.check();
         }
     }
